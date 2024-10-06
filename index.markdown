@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<img src="/assets/images/howlingbear.png" alt="bearhowl" class="custom-image"/>
