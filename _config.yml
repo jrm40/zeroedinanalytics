@@ -20,8 +20,8 @@
 
 title: ZeroedIn Analytics LLC
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/zeroedinanalytics" # the subpath of your site, e.g. /blog
-url: "https://jrm40.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.zeroedinanalytics.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
