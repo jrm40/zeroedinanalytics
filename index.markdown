@@ -4,4 +4,4 @@
 
 layout: home
 ---
-<img src="{{ site.baseurl }}/assets/images/howlingbear.png" alt="bearhowl" class="custom-image"/>
+<img src="{{ site.baseurl }}/assets/images/logo.png" alt="logo" class="custom-image"/>
